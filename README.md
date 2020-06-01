@@ -1,3 +1,6 @@
+# DetectionAndTracking
+Sports Ball Detection and Tracking using opencv c++ and Deep Learning 
+
 This project is to demonstrate the detection and traking using opencv and deep learning concepts.
 
 This project require the knowledge of C++ and opencv libraries. Apart from this it also requires some knowledge 
@@ -8,7 +11,7 @@ setup the path of opencv installtion coorectly in the CMakeLists.txt.
 
 Once the project is compiled it will generate a binary named DetectionAndTracking
 
-Before running the output you need to download and copy yolov3.weights inside data/models/ 
+Before running the DetectionAndTracking you need to download and copy yolov3.weights inside data/models/ 
 
 Now you can run this from commandline using ./DetectionAndTracking on Linux terminal
 
